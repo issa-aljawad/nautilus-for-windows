@@ -117,7 +117,3 @@ files_win/
   platform_win.py known folders, drives, Recycle Bin, shell thumbnails
   settings.py     preferences, bookmarks, starred, folder colors
 ```
-
-## License
-
-Copyright © 2026 Issa Al Jawad. All rights reserved.
